@@ -5,7 +5,7 @@ Hello! I'm Sandun Gunawardana, a passionate and detail-oriented Fullstack Develo
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, php, java 
 - **Database:** MongoDB, MySQL
 - **Version Control:** Git
 
