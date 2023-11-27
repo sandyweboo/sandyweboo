@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @sandyweboo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sandun Gunawardana - Fullstack Developer
 
-<!---
-sandyweboo/sandyweboo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hello! I'm Sandun Gunawardana, a passionate and detail-oriented Fullstack Developer currently seeking new opportunities in the tech industry.
+
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git
+
+## Education
+- **Bachelor's Degree (In Progress)**
+  - [Java Institute, Sri Lanka](https://www.javainstitute.lk/)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sandungunawardana/)
+
+## Contact
+Feel free to reach out:
+- Email: [sandyweboo@gmail.com]
+
+Let's connect, collaborate, and create amazing things together  💻🚀
+
